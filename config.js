@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/nYc2XCcFf",
+  SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5,
   showProgressBar: false,  // Show progress bar in track embed
   showVisualizer: false,  // Show visualizer on music card (disabled for low-memory optimization)
@@ -23,7 +23,7 @@ module.exports = {
   nodes: [
      {
   name: "GlaceYT",
-  password: "Glace",
+  password: "glace",
   host: "de-01.strixnodes.com",
   port: 2010,
   secure: false
